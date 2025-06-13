@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='djangocms-light-gallery',
-      version='1.2.1',
+      version='1.3.0',
       description='Light Gallery plugin for django CMS',
       url='https://github.com/andyklimczak/djangocms-light-gallery',
       author='Andy Klimczak',

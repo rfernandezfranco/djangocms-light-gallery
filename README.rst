@@ -5,7 +5,7 @@ django CMS Light Gallery
 |PyPI version|
 
 django CMS plugin for `Light Gallery
-1.4.0 <https://github.com/sachinchoolur/lightGallery>`__
+2.8.3 <https://github.com/sachinchoolur/lightGallery>`__
 
 Installation
 ============
@@ -44,6 +44,6 @@ Publishing
 
     pip install -U pip setuptools twine divio-cli
     python setup.py sdist
-    twine upload dist/djangocms_light_gallery-1.2.1.tar.gz
+    twine upload dist/djangocms_light_gallery-1.3.0.tar.gz
     divio addon validate
     divio addon upload
